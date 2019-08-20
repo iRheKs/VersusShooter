@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="shootEachOther.ShotTimer" Collapsed="true">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\_scripts\BulletScripts\ShotTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootEachOther.ColumnGenerator" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAABAACAFgAEAAQAAAAAggAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\_scripts\GeneratorScripts\ColumnGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootEachOther.CanvasController" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAIAAAAAAEAAAAIAAAABAQAAAIAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\ManagementScripts\CanvasController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootEachOther.ResetManager" Collapsed="true">
+    <Position X="10" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAQAAAAAACAAAAAAAAABAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\ManagementScripts\ResetManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootEachOther.PlayerController" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAECBAAAAAAAAAAAAAAIAAAACAAACgAAgAA=</HashCode>
+      <FileName>Assets\_scripts\PlayerScripts\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shootEachOther.PlayerSettings" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACUACAAAAIAABBBIIAAAgAAAgEAAAQAIQBAAAAAABEA=</HashCode>
+      <FileName>Assets\_scripts\PlayerScripts\PlayerSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ColumnParticle" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAAAAAAAAAAAAAAAAAAAAAAAAIAAEAAAAAAAA=</HashCode>
+      <FileName>Assets\_scripts\ManagementScripts\ColumnParticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
